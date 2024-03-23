@@ -1,0 +1,4 @@
+2024/03/23-15:37:36.095 1fa0 Log #3: 3 ops saved to Table #4 OK
+2024/03/23-15:37:37.097 1fa0 Archiving C:\Users\admin\PycharmProjects\IMDScrapper\userdata\default_userdata\Default\File System\Origins/000003.log: IO error: C:\Users\admin\PycharmProjects\IMDScrapper\userdata\default_userdata\Default\File System\Origins/000003.log: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)
+2024/03/23-15:37:37.098 1fa0 Table #4: 3 entries OK
+2024/03/23-15:37:38.103 1fa0 Archiving C:\Users\admin\PycharmProjects\IMDScrapper\userdata\default_userdata\Default\File System\Origins/MANIFEST-000001: IO error: C:\Users\admin\PycharmProjects\IMDScrapper\userdata\default_userdata\Default\File System\Origins/MANIFEST-000001: Could not rename file: File currently in use. (ChromeMethodBFE: 14::RenameFile::2)

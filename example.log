@@ -1,0 +1,146 @@
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/9586e1dcc469f5b4fc216589c577fc53/element/f.BBD9700008C12C24A2192A5FA6D96681.d.A73787594195AD616ED6E662C480E7C5.e.246/text
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE357FF3B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5665fce8d9da40e7908ddc36aacf043f/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE332AD5B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5665fce8d9da40e7908ddc36aacf043f/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE332AD820>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5665fce8d9da40e7908ddc36aacf043f/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE332ADD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5665fce8d9da40e7908ddc36aacf043f/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE332AE060>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5665fce8d9da40e7908ddc36aacf043f/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE332AE300>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5665fce8d9da40e7908ddc36aacf043f/element
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE332AE750>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5665fce8d9da40e7908ddc36aacf043f/url
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE332AEA80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5665fce8d9da40e7908ddc36aacf043f/url
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002AE332AECC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5665fce8d9da40e7908ddc36aacf043f/url
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/1a7efa1ce7c68f733d75514f86b10307/element/f.182426B3D9FE081B4B3CCDBD76DEF5EC.d.4E2B9ED84DAB51139E5AC29E1D6EF24F.e.251/text
+ERROR:root:
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/02c6cd1d8f81b50bd914443bb5af6ad9/element/f.6ACC1B91ACAFCF71A59DEE8BAB3B274E.d.DBBFD44DB4E9843E262FA09D3DCD021D.e.251/text
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/488edc4d2b4a6bea33022cf9a3a810d1/element/f.533EEC70CEC6D909C88393CAE8C73641.d.B66D6F11F810BC8337C33E9AC295EB90.e.259/text
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/ba6f352abaace08658b71f50190357da/element/f.C78B84C4226DDA486F8E48F71A0EC143.d.F7984AC15DCE8BFCF38504E21A7B3D08.e.145/text
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/6876950ca7193072c3998fd25c720091/element/f.F7EE119155C60C1150A927C1B99BF0C7.d.D4A1C7FCA53223C0D35A6CE7EA2D4CBF.e.266/text
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None)': /session/91d0d8bd6fec083bdd5f03714f10b1d4/element/f.6EBF5B630F4E4021B11223478A6FD793.d.395850594B8A535B9384F9D3641CB011.e.281/text
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DADC632C60>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c88e28cdb020238fe993f145b216be0d
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DADA93D430>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c88e28cdb020238fe993f145b216be0d
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DADC632480>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c88e28cdb020238fe993f145b216be0d
+WARNING:urllib3.connectionpool:Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DADC680B30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c88e28cdb020238fe993f145b216be0d/url
+WARNING:urllib3.connectionpool:Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DADC680350>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c88e28cdb020238fe993f145b216be0d/url
+WARNING:urllib3.connectionpool:Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001DADC6339E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/c88e28cdb020238fe993f145b216be0d/url
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
+ERROR:root:
