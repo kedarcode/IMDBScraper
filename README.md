@@ -1,7 +1,5 @@
-# Heading 1
-## Heading 2
-### Heading 3
-
+# IMDB Scrapper
+##selenium Scrapper with UI 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
 Strong emphasis, aka bold, with **asterisks** or __underscores__.
@@ -16,6 +14,7 @@ Combined emphasis with **asterisks and _underscores_**.
 
 [I'm an inline-style link](https://www.google.com)
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")![UI](https://github.com/kedarcode/IMDBScraper/assets/98396591/9bc318b7-b079-44f0-8d8b-c34957b7d6f9)
+
 
 ![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
